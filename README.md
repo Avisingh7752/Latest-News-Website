@@ -1,2 +1,2 @@
 # Latest-News-Website
-hi
+In this project i have used News API to fetch the latest date.
